@@ -1,0 +1,42 @@
+body{
+    background-color: rgba(95, 95, 228, 0.247);
+    margin: 0px;
+    padding: 5%;
+}
+#form-name{
+    border: 5px solid white;
+    background-color: white;
+    box-shadow: 1px 2px 3px 1px grey;
+    border-top: 5px solid rgba(52, 52, 182, 0.658);
+}
+
+#titre, #desc{
+    font-family: Courier, monospace;
+    color: rgba(8, 8, 66, 0.692);
+}
+input[type="submit"]{
+    width: 80px;
+    background-color: rgba(46, 46, 235, 0.795);
+    height: 30px;
+    margin: 5%;
+}
+input[type="text"]{
+    width: 60%;
+    background-color: whitesmoke;
+    border: none;
+    border-bottom: 2px solid  rgba(8, 8, 66, 0.692);;
+}
+.hh{
+    font-family: Courier, monospace;
+    border: 5px solid whitesmoke;
+    background-color: white;
+    margin: 10%;
+}
+.hh{
+    font-family: Courier, monospace;
+    border: 5px solid whitesmoke;
+    background-color: white;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 11px;
+}
